@@ -73,7 +73,10 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ## 📫 Let's Connect
 
 I'm always open to new opportunities, collaborations, and connecting with fellow developers and tech enthusiasts. You can reach me via:
-- LinkedIn: (www.linkedin.com/in/dhineshse)
+
+<a  href="https://www.linkedin.com/in/dhineshse">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+</a>
 
  <a href="mailto:elavarasivel1976@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
