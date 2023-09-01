@@ -40,3 +40,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 Thank you for visiting my GitHub profile!
 
 [![GitHub followers](https://img.shields.io/github/followers/Dhinesh-se?label=Follow&style=social)](https://github.com/Dhinesh-se)
+![](https://img.shields.io/github/followers/Dhinesh-se?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
