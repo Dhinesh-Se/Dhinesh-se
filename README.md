@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi, I'm [Dhinesh] 👋
 
-<!--
-**Dhinesh-Se/Dhinesh-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Fullstack Developer with 1 year of professional experience in building web applications using Java, Angular, Node.js, JavaScript, and HTML. I'm committed to creating efficient, scalable, and user-friendly software solutions that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: Angular, HTML, CSS, JavaScript
+- **Backend**: Java, Node.js
+- **Databases**: MySQL, MongoDB,Oracle
+- **Version Control**: Git, GitHub
+- **Tools**: Visual Studio Code, IntelliJ IDEA, Postman
+
+## 📜 Experience
+
+- **Fullstack Developer** at [Your Previous Company] (Month Year - Present)
+  - Developed and maintained responsive web applications using Angular and Java.
+  - Designed and implemented RESTful APIs with Node.js and Express.
+  - Collaborated with cross-functional teams to deliver high-quality software products.
+
+## 🚀 Projects
+
+## 🌱 What I'm Currently Learning
+
+I'm constantly striving to expand my skill set. Currently, I'm focusing on:
+
+- Exploring new frontend frameworks and libraries.
+- Deepening my knowledge of microservices architecture.
+- Improving my problem-solving and algorithmic skills.
+
+## 📫 Let's Connect
+
+I'm always open to new opportunities, collaborations, and connecting with fellow developers and tech enthusiasts. You can reach me via:
+
+- LinkedIn: [dhineshse](www.linkedin.com/in/dhineshse)
+- Email: elavarasivel1976@gmail.com
+- Twitter: [@YourTwitterHandle](link-to-twitter)
+
+Feel free to explore my repositories and reach out if you have any questions or would like to chat. 😊
+
+Thank you for visiting my GitHub profile!
+
+[![GitHub followers](https://img.shields.io/github/followers/Dhinesh-se?label=Follow&style=social)](https://github.com/Dhinesh-se)
