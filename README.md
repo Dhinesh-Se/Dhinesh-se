@@ -31,6 +31,8 @@ I'm a passionate Fullstack Developer with 1 year of professional experience in b
 
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white "Java")][java-repo]
+
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhinesh-se&show_icons=true&locale=en" alt="Dhinesh-se" /></p>
 
