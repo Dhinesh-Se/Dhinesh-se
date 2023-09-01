@@ -69,7 +69,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
 <br />
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+
 ![](https://img.shields.io/github/followers/Dhinesh-se?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 <br />
