@@ -28,6 +28,10 @@ I'm a passionate Fullstack Developer with 1 year of professional experience in b
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-se&" alt="Dhinesh-se" /></p>
 
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhinesh-se" alt="Dhinesh-se" /></a> </p>
+
 ## 🌱 What I'm Currently Learning
 
 I'm constantly striving to expand my skill set. Currently, I'm focusing on:
