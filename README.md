@@ -1,3 +1,11 @@
+<img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
+
+</br>
+
+<!-- Add a banner or header image -->
+![Header Image](link-to-your-header-image.png)
+
+
 # Hi, I'm Dhinesh 👋
 
 I'm a passionate Fullstack Developer with 1 year of professional experience in building web applications using Java, Angular, Node.js, JavaScript, and HTML. I'm committed to creating efficient, scalable, and user-friendly software solutions that solve real-world problems.
