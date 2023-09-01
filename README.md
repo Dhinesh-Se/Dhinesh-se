@@ -31,7 +31,7 @@ I'm constantly striving to expand my skill set. Currently, I'm focusing on:
 
 I'm always open to new opportunities, collaborations, and connecting with fellow developers and tech enthusiasts. You can reach me via:
 
-- LinkedIn: [dhineshse](www.linkedin.com/in/dhineshse)
+- LinkedIn: (www.linkedin.com/in/dhineshse)
 - Email: elavarasivel1976@gmail.com
 - Twitter: [@YourTwitterHandle](link-to-twitter)
 
