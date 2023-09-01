@@ -75,7 +75,10 @@ Feel free to explore my repositories and reach out if you have any questions or 
 I'm always open to new opportunities, collaborations, and connecting with fellow developers and tech enthusiasts. You can reach me via:
 - LinkedIn: (www.linkedin.com/in/dhineshse)
 
-  
+ <a href="mailto:elavarasivel1976@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a> 
+
 <a href="https://www.instagram.com/coding.stella"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
