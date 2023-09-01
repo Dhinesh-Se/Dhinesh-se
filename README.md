@@ -61,6 +61,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 [repo]: https://github.com/codingstella?tab=repositories
 
 <hr />
+</br>
 ## 📫 Let's Connect
 
 I'm always open to new opportunities, collaborations, and connecting with fellow developers and tech enthusiasts. You can reach me via:
