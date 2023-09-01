@@ -1,6 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
-
-</br>
 
 <!-- Add a banner or header image -->
 ![Header Image](link-to-your-header-image.png)
@@ -25,7 +22,10 @@ I'm a passionate Fullstack Developer with 1 year of professional experience in b
   - Designed and implemented RESTful APIs with Node.js and Express.
   - Collaborated with cross-functional teams to deliver high-quality software products.
 
+# 📊 GitHub Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhinesh-se&show_icons=true&locale=en" alt="Dhinesh-se" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-se&" alt="Dhinesh-se" /></p>
 
 ## 🌱 What I'm Currently Learning
 
