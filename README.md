@@ -12,12 +12,12 @@ I'm a passionate Fullstack Developer with 1 year of professional experience in b
 
 ## 📜 Experience
 
-- **Fullstack Developer** at [Your Previous Company] (Month Year - Present)
+- **Fullstack Developer** at [KGISl] (2022 - Present)
   - Developed and maintained responsive web applications using Angular and Java.
   - Designed and implemented RESTful APIs with Node.js and Express.
   - Collaborated with cross-functional teams to deliver high-quality software products.
 
-## 🚀 Projects
+
 
 ## 🌱 What I'm Currently Learning
 
