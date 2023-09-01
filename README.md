@@ -38,6 +38,5 @@ I'm always open to new opportunities, collaborations, and connecting with fellow
 Feel free to explore my repositories and reach out if you have any questions or would like to chat. 😊
 
 Thank you for visiting my GitHub profile!
-
-[![GitHub followers](https://img.shields.io/github/followers/Dhinesh-se?label=Follow&style=social)](https://github.com/Dhinesh-se)
+![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 ![](https://img.shields.io/github/followers/Dhinesh-se?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
