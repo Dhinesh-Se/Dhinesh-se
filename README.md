@@ -7,20 +7,20 @@
 
 I'm a passionate Fullstack Developer with 1 year of professional experience in building web applications using Java, Angular, Node.js, JavaScript, and HTML. I'm committed to creating efficient, scalable, and user-friendly software solutions that solve real-world problems.
 
-## 🔧 Skills
-
-- **Frontend**: Angular, HTML, CSS, JavaScript
-- **Backend**: Java, Node.js
-- **Databases**: MySQL, MongoDB,Oracle
-- **Version Control**: Git, GitHub
-- **Tools**: Visual Studio Code, IntelliJ IDEA, Postman
-
 ## 📜 Experience
 
 - **Fullstack Developer** at KGISl (2022 - Present)
   - Developed and maintained responsive web applications using Angular and Java.
   - Designed and implemented RESTful APIs with Node.js and Express.
   - Collaborated with cross-functional teams to deliver high-quality software products.
+
+## 🕸️ **WEB DEV**
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")][repo]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][repo]
+[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
 
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhinesh-se&show_icons=true&locale=en" alt="Dhinesh-se" /></p>
