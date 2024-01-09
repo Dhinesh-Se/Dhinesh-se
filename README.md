@@ -20,7 +20,7 @@ I'm a passionate Fullstack Developer with 1 year of professional experience in b
 - **Backend**: Java, Node.js
 - **Databases**: MySQL, MongoDB, Oracle
 - **Version Control**: Git, GitHub
-- **Tools**: Visual Studio Code, IntelliJ IDEA, Postman
+- **Tools**: Visual Studio Code, IntelliJ IDEA, Postman , STS, Eclipse
 
 
 # 📊 GitHub Stats:
@@ -83,11 +83,11 @@ I'm always open to new opportunities, collaborations, and connecting with fellow
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 
- <a href="mailto:elavarasivel1976@gmail.com"> 
+ <a href="elavarasivel1976@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a> 
 
-<a href="https://www.instagram.com/coding.stella"> 
+<a href="https://www.instagram.com/dnesh_vd"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 
