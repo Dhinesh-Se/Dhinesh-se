@@ -5,7 +5,7 @@
 
 # Hi, I'm Dhinesh 👋
 
-I'm a passionate Fullstack Developer with 1 year of professional experience in building web applications using Java, Angular, Node.js, JavaScript, and HTML. I'm committed to creating efficient, scalable, and user-friendly software solutions that solve real-world problems.
+I'm a passionate Fullstack Developer with 2 year of professional experience in building web applications using Java, Angular, Node.js, JavaScript, and HTML. I'm committed to creating efficient, scalable, and user-friendly software solutions that solve real-world problems.
 
 ## 📜 Experience
 
