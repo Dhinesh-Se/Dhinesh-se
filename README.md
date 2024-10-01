@@ -46,8 +46,7 @@ A passionate Fullstack Developer with 2 years of professional experience in buil
 I'm always striving to expand my skill set. Currently, I'm focusing on:
 
 - Exploring new frontend frameworks and libraries like **React**.
-- Deepening my knowledge of **microservices architecture** through building a [demo e-commerce microservices app](https://github.com/Dhinesh-se/ecommerce-microservices).
-- Improving my **problem-solving** and **algorithmic** skills by practicing on [LeetCode](https://leetcode.com/).
+- Implementing Multiple Database Connections Using JNDI [Repo](https://github.com/Dhinesh-Se/MultipleDBConnInSpringBoot)
 
 ## 📊 GitHub Stats
 
