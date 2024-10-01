@@ -29,8 +29,6 @@ A passionate Fullstack Developer with 2 years of professional experience in buil
 **Databases**: MySQL, Oracle, MongoDB  
 **Version Control**: Git, GitHub  
 **Tools**: VS Code, IntelliJ IDEA, STS, Eclipse, Postman
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhinesh-se&show_icons=true&locale=en&layout=compact" alt="Dhinesh-se" /></p>
-
 
 ## 🚀 Featured Projects
 - [**E-commerce Web App**](https://github.com/Dhinesh-se/ecommerce-app)  
@@ -54,6 +52,8 @@ I'm always striving to expand my skill set. Currently, I'm focusing on:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhinesh-se&show_icons=true&locale=en&theme=radical" alt="Dhinesh-se" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-se&theme=radical" alt="Dhinesh-se" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhinesh-se&show_icons=true&locale=en&layout=compact" alt="Dhinesh-se" /></p>
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhinesh-se&theme=radical" alt="Dhinesh-se" /></a> </p>
