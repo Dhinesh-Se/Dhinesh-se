@@ -22,34 +22,11 @@ A passionate Fullstack Developer with 2 years of professional experience in buil
 
 ## 🔧 Skills & Technologies
 
-### 🌐 Frontend
-- **Frameworks/Languages**: 
-  - Angular
-  - HTML, CSS, JavaScript
-
-### ⚙️ Backend
-- **Languages**: 
-  - Java
-  - Node.js
-
-### 🗄️ Databases
-- **Relational**: 
-  - MySQL
-  - Oracle
-- **NoSQL**:
-  - MongoDB
-
-### 🛠️ Tools & Version Control
-- **Version Control**: 
-  - Git
-  - GitHub
-
-- **Development Tools**:
-  - Visual Studio Code
-  - IntelliJ IDEA
-  - Spring Tool Suite (STS)
-  - Eclipse
-  - Postman
+**Frontend**: Angular, HTML, CSS, JavaScript  
+**Backend**: Java, Node.js  
+**Databases**: MySQL, Oracle, MongoDB  
+**Version Control**: Git, GitHub  
+**Tools**: VS Code, IntelliJ IDEA, STS, Eclipse, Postman
 
 ## 🚀 Featured Projects
 - [**E-commerce Web App**](https://github.com/Dhinesh-se/ecommerce-app)  
