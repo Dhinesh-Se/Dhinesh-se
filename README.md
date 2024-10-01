@@ -31,6 +31,7 @@ A passionate Fullstack Developer with 2 years of professional experience in buil
 **Tools**: VS Code, IntelliJ IDEA, STS, Eclipse, Postman
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhinesh-se&show_icons=true&locale=en&layout=compact" alt="Dhinesh-se" /></p>
 
+
 ## 🚀 Featured Projects
 - [**E-commerce Web App**](https://github.com/Dhinesh-se/ecommerce-app)  
   A full-fledged e-commerce web application built using Angular and Node.js. Features include product search, shopping cart, and user authentication.
