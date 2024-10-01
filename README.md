@@ -93,17 +93,3 @@ If you like what you see, consider following me to stay updated on my work and l
 ![](https://img.shields.io/github/followers/Dhinesh-se?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 ---
-
-### Links
-[medium]: https://medium.com/
-[github]: https://github.com/
-[google]: https://www.google.com
-[mdn]: https://developer.mozilla.org/en-US/
-[wiki]: https://en.wikipedia.org/wiki/Main_Page
-[quora]: https://www.quora.com/
-[doc]: https://www.digitalocean.com/community
-[udemy]: https://www.udemy.com/
-[gog]: https://www.geeksforgeeks.org/
-[fcc]: https://www.freecodecamp.org/
-[sof]: https://stackoverflow.com/
-[repo]: https://github.com/codingstella?tab=repositories
