@@ -5,6 +5,8 @@
 
 A passionate Fullstack Developer with 2 years of professional experience in building web applications using Java, Angular, Node.js, JavaScript, and HTML. I am dedicated to creating efficient, scalable, and user-friendly software solutions to solve real-world problems.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhinesh-se&label=Profile%20views&color=0e75b6&style=flat" alt="Dhinesh-se" /> </p>
+
 ### 💡 My Key Strengths:
 - Writing clean and maintainable code.
 - Developing responsive and scalable web applications.
@@ -27,6 +29,7 @@ A passionate Fullstack Developer with 2 years of professional experience in buil
 **Databases**: MySQL, Oracle, MongoDB  
 **Version Control**: Git, GitHub  
 **Tools**: VS Code, IntelliJ IDEA, STS, Eclipse, Postman
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhinesh-se&show_icons=true&locale=en&layout=compact" alt="Dhinesh-se" /></p>
 
 ## 🚀 Featured Projects
 - [**E-commerce Web App**](https://github.com/Dhinesh-se/ecommerce-app)  
