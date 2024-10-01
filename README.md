@@ -73,6 +73,9 @@ I use the following resources to stay updated and solve problems:
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
 
+![Static Badge](https://img.shields.io/badge/eclipse-marketplace?style=for-the-badge&logo=eclipse-marketplace)
+
+
 Feel free to explore my repositories and reach out if you have any questions or would like to chat. 😊
 
 ## 📫 Let's Connect
