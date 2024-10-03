@@ -1,6 +1,6 @@
 <!-- Add a banner or header image -->
 <p align="center">
-  <img src="https://git-profile-readme-banner.vercel.app/api/python?username='Dhinesh'&txt=Full%20Stack%20Developer%20Software%20Engineer" alt="GitHub Banner">
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Dhinesh-se&txt=Full%20Stack%20Developer%20Software%20Engineer" alt="GitHub Banner">
 </p>
 
 
