@@ -1,5 +1,8 @@
 <!-- Add a banner or header image -->
-![Header Image](link-to-your-header-image.png)
+<div align="center">
+  <img src="https://via.placeholder.com/1200x400.png?text=Software+Engineer+%26+Coder" alt="GitHub Banner">
+</div>
+
 
 # Hi, I'm Dhinesh 👋
 
