@@ -1,5 +1,5 @@
 <!-- Add a banner or header image -->
- <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Dhinesh"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Dhinesh&txt=Full%20Stack%20Developer%20Software Engineer"></p>
 
 
 # Hi, I'm Dhinesh 👋
