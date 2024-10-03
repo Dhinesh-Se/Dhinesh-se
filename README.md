@@ -1,7 +1,5 @@
 <!-- Add a banner or header image -->
-<div align="center">
-  <img src="https://via.placeholder.com/1200x400.png?text=Software+Engineer+%26+Coder" alt="GitHub Banner">
-</div>
+ <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Dhinesh"></p>
 
 
 # Hi, I'm Dhinesh 👋
