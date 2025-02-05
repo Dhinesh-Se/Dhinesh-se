@@ -17,11 +17,13 @@
 ---
 
 ## 💡 **About Me**
-- 🔥 **Software Engineer** at KGISL with expertise in **Java & Angular**.
-- ⚡ **Full Stack Developer** skilled in backend, frontend, and database management.
-- 🎥 **Cinema Enthusiast** & **anime lover**.
-- 🏐 Learning **React JS**.
-- 📚 Continuously improving **Programming Skills & Language Skills**.
+- 💻 **Software Engineer** at KGISL with expertise in **Java & Angular**.  
+- 🚀 **Full Stack Developer** skilled in **backend, frontend, and database management**.  
+- 🎬 **Cinema Enthusiast** & **Anime Lover** – Passionate about storytelling and visual art.  
+- 🏐 Currently exploring **React.js** to expand frontend expertise.  
+- 📚 Continuously improving **programming skills, problem-solving, and communication**.  
+- 💡 Always eager to learn new technologies and enhance development efficiency.
+  
 ---
 
 ## 🔥 **Key Strengths**
