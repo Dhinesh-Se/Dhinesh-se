@@ -80,7 +80,7 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-se&show_icons=true&locale=en&theme=radical" alt="Dhinesh-se" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-se&theme=radical" alt="Dhinesh-se" />
+  <img src="https://streak-stats.demolab.com/?user=Dhinesh-se&theme=radical" alt="Dhinesh-se" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhinesh-se&show_icons=true&locale=en&layout=compact" alt="Dhinesh-se" />
 </p>
 
