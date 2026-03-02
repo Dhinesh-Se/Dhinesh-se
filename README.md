@@ -35,7 +35,7 @@
 ---
 
 ## 💼 **Experience**
-### 🚀 **Full Stack Developer** at **KGISL** (2022 - Present)
+### 🚀 **Full Stack Developer** at **KGISL** (Dec-2022 to Feb-2026)
 - Developed & maintained **responsive web applications** using **Angular & Java**.
 - Designed & implemented **RESTful APIs** with **Node.js & Express**.
 - Optimized backend logic, reducing API response times by **30%**.
