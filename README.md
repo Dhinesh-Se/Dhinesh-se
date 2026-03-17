@@ -1,6 +1,6 @@
 <!-- Animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dhinesh%20Elavarasi&fontAlign=50&fontAlignY=35&color=0:7F00FF,100:E100FF&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Angular%20%7C%20Node.js&descAlign=50&descAlignY=55" alt="Dhinesh profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dhinesh%20SE&fontAlign=50&fontAlignY=35&color=0:7F00FF,100:E100FF&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Angular%20%7C%20Node.js&descAlign=50&descAlignY=55" alt="Dhinesh profile banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Dhinesh 👋</h1>
