@@ -1,137 +1,92 @@
-<!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Dhinesh-se&txt=Full%20Stack%20Developer%20|%20Software%20Engineer" alt="GitHub Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:6a11cb,50:2575fc,100:00c6ff&text=Dhinesh%20Elavarasi&fontAlign=50&fontAlignY=36&fontColor=ffffff&fontSize=46&desc=Software%20Engineer%20at%20EY%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=58" alt="Profile Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Dhinesh 👋</h1>
+<h1 align="center">Hi 👋, I'm Dhinesh</h1>
+<h3 align="center">Full Stack Developer focused on scalable backend systems and modern web experiences</h3>
 
 <p align="center">
-  Passionate Full Stack Developer with 2 years of experience in building scalable and efficient web applications using Java, Angular, Node.js, and more.
-  I love solving real-world problems with clean and maintainable code.
+  <a href="https://www.linkedin.com/in/dhineshse"><img src="https://img.shields.io/badge/LinkedIn-Dhinesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:elavarasivel1976@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-se&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhinesh-se&label=Profile%20views&color=0e75b6&style=flat" alt="Dhinesh-se" />
-</p>
-
----
-
-## 💡 **About Me**
-- 💻 **Software Engineer** at KGISL with expertise in **Java & Angular**.  
-- 🚀 **Full Stack Developer** skilled in **backend, frontend, and database management**.  
-- 🎬 **Cinema Enthusiast** & **Anime Lover** – Passionate about storytelling and visual art.  
-- 🏐 Currently exploring **React.js** to expand frontend expertise.  
-- 📚 Continuously improving **programming skills, problem-solving, and communication**.  
-- 💡 Always eager to learn new technologies and enhance development efficiency.
-  
----
-
-## 🔥 **Key Strengths**
-- 🧹 Writing **clean & maintainable** code.
-- ⚡ Developing **high-performance** web applications.
-- 🛠️ Designing **efficient APIs** with optimized database queries.
-- 🤝 **Collaborating** with teams to deliver **quality software**.
-
----
-
-## 💼 **Experience**
-### 🚀 **Full Stack Developer** at **KGISL** (Dec-2022 to Feb-2026)
-- Developed & maintained **responsive web applications** using **Angular & Java**.
-- Designed & implemented **RESTful APIs** with **Node.js & Express**.
-- Optimized backend logic, reducing API response times by **30%**.
-- Enhanced UI/UX, increasing user engagement by **20%**.
-- Mentored **interns & junior developers**.
-
----
-
-## 🔧 **Skills & Technologies**
-### **Frontend**  
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Backend**  
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-### **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Version Control & Tools**  
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 🚀 DevOps & Deployment Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JBoss](https://img.shields.io/badge/JBoss-E40020?style=for-the-badge&logo=jboss&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-se&show_icons=true&locale=en&theme=radical" alt="Dhinesh-se" />
-  <img src="https://streak-stats.demolab.com/?user=Dhinesh-se&theme=radical" alt="Dhinesh-se" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhinesh-se&show_icons=true&locale=en&layout=compact" alt="Dhinesh-se" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+EY+(Feb+2026+%E2%80%93+Present);Ex-Full+Stack+Developer+%40+KGiSL;Java+%7C+Spring+Boot+%7C+Angular+%7C+Node.js;Building+clean%2C+reliable+and+performant+applications" alt="Typing intro" />
 </p>
 
 ---
 
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dhinesh-se&theme=radical" alt="Dhinesh-se" />
-  </a>
+## 🚀 About Me
+- 💼 **Currently:** Software Engineer at **EY** (**Feb 2026 – Present**)
+- 🧠 **Previous:** Full Stack Developer at **KGiSL** (**Dec 2022 – Feb 2026**)
+- 🛠️ I build robust applications using **Java, Spring Boot, Angular, Node.js, and SQL/NoSQL**
+- 🎯 I care deeply about **clean architecture, API performance, and user-centric UI**
+- 🌱 Actively learning **React**, **system design**, and **cloud-native engineering patterns**
+
+---
+
+## ✨ Latest Updates
+- ✅ Joined **EY** in **Feb 2026** and currently contributing to enterprise-grade products
+- 🔄 Working on improving **scalability**, **maintainability**, and **release quality**
+- 📈 Upskilling on advanced backend and modern frontend engineering practices
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,angular,react,nodejs,express" />
+</p>
+
+### Databases & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,git,github,postman,netlify,vercel" />
 </p>
 
 ---
 
-## 📚 **Learning Resources**
-I stay updated & improve my skills using:
+## 💼 Experience Snapshot
+### **EY — Software Engineer** _(Feb 2026 – Present)_
+- Building and maintaining enterprise web modules across backend and frontend layers
+- Collaborating with cross-functional teams to deliver reliable production releases
+- Improving code quality, API behavior, and development workflows
+
+### **KGiSL — Full Stack Developer** _(Dec 2022 – Feb 2026)_
+- Developed responsive applications using **Angular** and **Java**
+- Designed and implemented **REST APIs** with **Node.js/Express**
+- Improved API efficiency and user experience with performance-focused enhancements
+- Supported team growth by mentoring interns and junior developers
+
+---
+
+## 📊 GitHub Highlights
 <p align="center">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-se&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Dhinesh-se&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh-se&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
 ---
 
-## 💻 **Code Editors & IDEs**
+## 🏆 Achievements
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/eclipse-marketplace?style=for-the-badge&logo=eclipse-marketplace" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhinesh-se&theme=algolia&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📫 **Let's Connect**
+## 🤝 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhineshse">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:elavarasivel1976@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/dnesh_vd">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"/>
-  </a>
+  <a href="https://www.linkedin.com/in/dhineshse"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:elavarasivel1976@gmail.com"><img src="https://img.shields.io/badge/Gmail-Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.instagram.com/dnesh_vd"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
----
-
-## 🙏 **Thanks for Visiting!**
-If you like my work, consider **following me** for updates on my coding journey! 😊  
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Dhinesh-se?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <b>Thanks for visiting my profile — let's build something impactful 🚀</b>
 </p>
